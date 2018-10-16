@@ -1,8 +1,6 @@
 # BackButtonActionBar
 ဢၼ်ၼႆႉပဵၼ် Botton Action bar တႃႇႁူၼ်လင်ၶိုၼ်း
 
-ဢၼ်ၼႆႉပဵၼ် Botton Action bar တႃႇႁူၼ်လင်ၶိုၼ်း
-
 package com.android.khurkham.thebackbuttonactionbar;
 
 import android.content.Intent;
